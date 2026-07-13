@@ -1,5 +1,5 @@
 export default function Shs() {
-    return `<>
-        <p>기능1</p>
-    </>`;
+    return (`<>
+        <p>기능1 수정</p>
+    </>`);
 }
