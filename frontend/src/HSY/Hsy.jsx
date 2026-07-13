@@ -1,5 +1,5 @@
 export default function Hsy(){
-  return `<>
+  return (`<>
     <p>기능1</p>
-  </>`;
+  </>`);
 }
